@@ -24,7 +24,7 @@ The purpose of this analysis is to find the trend for multiple stocks based on:
    - Time taken to traverse FY2017 data using refactored code
    ![](./Resources/2017_TimeTaken.PNG)  
    - Time taken to traverse FY2018 data using refactored code
-   ![](./Resources/2018_TimeTaken.PNG)  
+   ![](./Resources/2018_Timetaken.PNG)  
    
 
 
