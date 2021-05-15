@@ -17,7 +17,15 @@ The purpose of this analysis is to find the trend for multiple stocks based on:
    ![](./Resources/Year2017.PNG)  
    - Quantity of stocks and return for FY2018
    ![](./Resources/Year2018.PNG)  
-2. 
+3. To have a proper understanding of which stock performed better, it is good to take in consideration the *opening* and 
+   *closing* amount for each stock for every month.
+4. By refactoring the code we were able to analyze the whole data in only around 0.1 second. As the number of rows 
+   are same for both 2017 and 2018, the time taken to traverse is almost same for both the years using refactored code. 
+   - Time taken to traverse FY2017 data using refactored code
+   ![](./Resources/2017_TimeTaken.PNG)  
+   - Time taken to traverse FY2018 data using refactored code
+   ![](./Resources/2018_TimeTaken.PNG)  
+   
 
 
 
