@@ -37,7 +37,12 @@ The purpose of this analysis is to find the trend for multiple stocks based on:
 
 
 ## Summary
-1. What are the advantages or disadvantages of refactoring code?
+
+1. What are the advantages or disadvantages of refactoring code in general?
+   - Advantage : By refactoring the code we can improve the space or time complexity.
+   - Disadvantage : The code needs to be written pertaining to the data available.  
+   
+1. What are the advantages or disadvantages of refactoring code(VBA)?
    
    Advantages :
    - By refactoring the code we improved the time complexity for the program. 
@@ -45,4 +50,13 @@ The purpose of this analysis is to find the trend for multiple stocks based on:
 	 than non refactored code. 
    Disadvantages : 
    - For the refactored code to work the data needs to be sorted. 
+
+2. What are the advantages or disadvantages of non refactored code(VBA)?
+
+   Advantages :
+   - Code can be applied for any kind of unstructured data. 
+   Disadvantage : 
+   - Code can become long and complex. 
+
+
 
