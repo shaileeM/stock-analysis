@@ -10,7 +10,7 @@ The purpose of this analysis is to find the trend for multiple stocks based on:
 ## Results
 
 ### Results based on performance of stock in year 2017 and 2018 with original and refactored code
-1. The number of stocks sold or the volume of stocks was way higher in 2018 than 2017 by booking at the Return 
+1. The number of stocks sold or the volume of stocks was way higher in 2018 than 2017 but by looking at the Return 
    it concludes that the stock overall did not perform well. 
 2. Majority number of stock's prices fell throughout the year.
    - Quantity of stocks and return for FY2017
