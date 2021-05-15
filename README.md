@@ -25,6 +25,13 @@ The purpose of this analysis is to find the trend for multiple stocks based on:
    ![](./Resources/2017_TimeTaken.PNG)  
    - Time taken to traverse FY2018 data using refactored code
    ![](./Resources/2018_Timetaken.PNG)  
+5. By using non refactored code, were are traversing the whole data almost 12 times which increases the time to almost 
+   0.6 seconds. 
+   - Time taken to traverse FY2017 data *by not* using refactored code
+   ![](./Resources/NonRefactored_2017.PNG)  
+   - Time taken to traverse FY2018 data *by not* using refactored code
+   ![](./Resources/NonRefactored2018.PNG)  
+   
    
 
 
